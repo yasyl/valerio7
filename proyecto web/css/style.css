@@ -1,0 +1,38 @@
+
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-weight: bold;
+    
+}
+
+h1{
+    color: #e10909;
+    font-size: 45px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+ul li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+a{
+    color: rgb(239, 4, 31);
+    text-decoration: none;
+
+    text-overflow: ellipsis;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+     font-size: 25px;
+}
+body{
+    background-image: url(fond1.jpg);
+
+}
+
